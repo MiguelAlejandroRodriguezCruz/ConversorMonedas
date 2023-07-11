@@ -68,7 +68,7 @@ estos precios se actiualizan cada 24 horas, por lo que siempre tendremos un prec
   <li>miguel.ale.rodri.cruz@gmail.com</li>
   <li><url>https://www.linkedin.com/in/miguel-alejandro-rodriguez-cruz-810a04260/</url></li>
 </ul></p>
-<p>#AluraCursosOnline #AluraBack End #Conversor *Oracle</p>
+<p>#AluraCursosOnline #AluraBackEnd #Conversor #Oracle</p>
  
 
 
