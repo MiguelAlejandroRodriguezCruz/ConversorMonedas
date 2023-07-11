@@ -19,5 +19,6 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
 <p>El menú cuenta con una lista desplegable que nos da a elejir que tipo de conversor queremos,
  también tenemos dos botones, OK que es para confirmar el conversor que seleccionamos, y Cancel que es
  para terminar el proyecto</p>
- ![](/assets/img/Mexico.png)
+ ![1](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/7a9da2cf-d427-409c-bdf5-e31f33c3c39c)
+
 
