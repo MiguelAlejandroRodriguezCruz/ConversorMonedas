@@ -60,7 +60,14 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
 <p>La API que estamos ocupando es ExchangeRate-API, la cual nos permite saber el precio real de muchas divisas a nivel mundia, 
 estos precios se actiualizan cada 24 horas, por lo que siempre tendremos un precio muy acertado en nuestro proyecto</p>
 <url>https://app.exchangerate-api.com/</url>
- 
+ <h3>Datos del Desarrollador</h3>
+ <p><ul>
+  <li>Miguel Alejandro Rodríguez Cruz</li>
+  <li>Alumno de ALura Latam</li>
+  <li>Estudiante del IPN</li>
+  <li>miguel.ale.rodri.cruz@gmail.com</li>
+  <li><url>https://www.linkedin.com/in/miguel-alejandro-rodriguez-cruz-810a04260/</url></li>
+</ul></p>
 
  
 
