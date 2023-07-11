@@ -28,6 +28,7 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
 <p>Este conversor primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
  tenemos como parametros año, siglo y decada</p>
  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+ <br>
  ![Conversor Año](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/7e119b93-e537-42c8-8232-01b11eccaece)
 
 
