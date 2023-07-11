@@ -20,7 +20,7 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
  también tenemos dos botones, OK que es para confirmar el conversor que seleccionamos, y Cancel que es
  para terminar el proyecto.</p>
 
-- Menú principal
+
 ![Menú principal](images/1.png)
 
 <h5>Conversor de Codigo ASCII</h5>
