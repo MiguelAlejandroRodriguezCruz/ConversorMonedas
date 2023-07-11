@@ -26,13 +26,19 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
 <h5>Conversor de Codigo ASCII</h5>
 <p>Este conversor nos deja ingresar en la primera TextField un simbolo para obtener su codigo ASCII,
 y en la segunda ingresamos un codigo para que nos muestre el simbolo que representa.</p>
-![Codigo ASCII](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/4ca47952-ab1e-4cdb-ae79-60834f080804)
+
+![Conversor ASCII](images/2.png)
+
 <h5>Conversor de Año</h5>
 <p>Este conversor primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
  tenemos como parametros año, siglo y decada</p>
- ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+
+![Dato](images/3.png)
+ 
  <br>
- ![Conversor Año](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/7e119b93-e537-42c8-8232-01b11eccaece)
+ 
+![Conversor Año](images/4.png)
+ 
 <h5>Conversor de Distancia</h5>
 <p>Este conversor igual primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
  tenemos como parametros metros, pulgadas y pies</p>
