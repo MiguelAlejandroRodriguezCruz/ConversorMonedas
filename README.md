@@ -35,7 +35,23 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
  tenemos como parametros metros, pulgadas y pies</p>
  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
  <br>
- ![5](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/68a95cca-345f-4f4d-bdf0-cd18f05ffdb3)
+ ![Conversor Distancia](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/68a95cca-345f-4f4d-bdf0-cd18f05ffdb3)
+<h5>Conversor de Peso</h5>
+ <p>Este conversor igual primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
+ tenemos como parametros kilogramo, libra y onza</p>
+  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+ <br>
+ ![Conversor Peso](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/8a17ada9-64e0-478e-85a0-76c46aa463ca)
+<h5>Conversor de Temperatura</h5>
+ <p>Este conversor igual primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
+ tenemos como parametros Celsius, Fahrenheit y Kelvin</p>
+  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+ <br>
+ ![Conversor Temperatura](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9d063bdc-243a-4fb6-9606-a65315944487)
+
+
+
+ 
 
  
 
