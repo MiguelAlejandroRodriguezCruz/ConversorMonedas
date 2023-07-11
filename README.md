@@ -19,5 +19,5 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
 <p>El menú cuenta con una lista desplegable que nos da a elejir que tipo de conversor queremos,
  también tenemos dos botones, OK que es para confirmar el conversor que seleccionamos, y Cancel que es
  para terminar el proyecto</p>
- ![The San Juan Mountains are beautiful!](/assets/img/Mexico.png "San Juan Mountains")
+ ![](/assets/img/Mexico.png)
 
