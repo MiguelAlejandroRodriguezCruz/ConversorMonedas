@@ -1,5 +1,5 @@
 # ConversorMonedas
-<meta charset="UTF-8">
+
 <h1 align="center"> Conversor de Monedas </h1>
 <h3>Introducción</h3>
 <p>Este proyecto tiene como proposito proporcionar al usuario un conversor de moneda de su pais a otras divisas extrangeras,
@@ -19,7 +19,7 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
 <p>El menú cuenta con una lista desplegable que nos da a elejir que tipo de conversor queremos,
  también tenemos dos botones, OK que es para confirmar el conversor que seleccionamos, y Cancel que es
  para terminar el proyecto.</p>
- ![Menú ](images/1.png)
+ ![Menú ](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/blob/master/images/1.png)
 ![Menú](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/d9408ba2-ab3a-4d46-b8d8-b418dbcbae5b)
 <h5>Conversor de Codigo ASCII</h5>
 <p>Este conversor nos deja ingresar en la primera TextField un simbolo para obtener su codigo ASCII,
