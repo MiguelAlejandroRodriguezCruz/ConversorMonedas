@@ -48,8 +48,13 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
   ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
  <br>
  ![Conversor Temperatura](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9d063bdc-243a-4fb6-9606-a65315944487)
-
-
+<h5>Conversor de Moneda</h5>
+<p>Para nuestro conversor principal se agregaron mas funcionalidades que los otros, primero tendremos un menú donde seleccionaremos la bandera del pais al que queremos convertir nuestro dinero, tendremos para elegir 8 paises diferentes.</p>
+![Menú Pais](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/54c62f85-6652-42db-bd6b-c05988118b14)
+<p>Despues tendremos una ventana para ingresar la cantidad que queremos convertir.</p>
+ ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+ <p>Por último nuestra cantidad podemos convertirla a Dolares, Euros, Libras, Yenes, Won COreanos y viceversa.</p>
+![Conversor Moneda](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/32931d45-bc98-42a7-ab38-eb08583b53d6)
 
  
 
