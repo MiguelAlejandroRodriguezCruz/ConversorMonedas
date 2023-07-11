@@ -63,12 +63,12 @@ estos precios se actiualizan cada 24 horas, por lo que siempre tendremos un prec
  <h3>Datos del Desarrollador</h3>
  <p><ul>
   <li>Miguel Alejandro Rodríguez Cruz</li>
-  <li>Alumno de ALura Latam</li>
+  <li>Alumno de Alura Latam</li>
   <li>Estudiante del IPN</li>
   <li>miguel.ale.rodri.cruz@gmail.com</li>
   <li><url>https://www.linkedin.com/in/miguel-alejandro-rodriguez-cruz-810a04260/</url></li>
 </ul></p>
-
+<p>#AluraCursosOnline #AluraBack End #Conversor *Oracle</p>
  
 
 
