@@ -30,7 +30,16 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
  <br>
  ![Conversor Año](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/7e119b93-e537-42c8-8232-01b11eccaece)
+<h5>Conversor de Distancia</h5>
+<p>Este conversor igual primero nos deja ingresar un dato, para despues nosotros podamos seleccionar a que deseamos combertirlo,
+ tenemos como parametros metros, pulgadas y pies</p>
+ ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
+ <br>
+ ![5](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/68a95cca-345f-4f4d-bdf0-cd18f05ffdb3)
+
+ 
 
 
+ 
 
 
