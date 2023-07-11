@@ -14,7 +14,7 @@ al igual que incluye varias funciones extra que el usuario podría necesitar alg
   <li>Conversor de Codigo ASCII</li>
 </ol>
 </p>
-<h3>Explicacion del proyecto</h3>
+<h3>Descripción del proyecto</h3>
 <h5>Menú</h5>
 <p>El menú cuenta con una lista desplegable que nos da a elejir que tipo de conversor queremos,
  también tenemos dos botones, OK que es para confirmar el conversor que seleccionamos, y Cancel que es
@@ -53,9 +53,13 @@ y en la segunda ingresamos un codigo para que nos muestre el simbolo que represe
 ![Menú Pais](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/54c62f85-6652-42db-bd6b-c05988118b14)
 <p>Despues tendremos una ventana para ingresar la cantidad que queremos convertir.</p>
  ![Dato](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/9fa8a665-c3f3-4b53-807a-637d4f48251f)
- <p>Por último nuestra cantidad podemos convertirla a Dolares, Euros, Libras, Yenes, Won COreanos y viceversa.</p>
+ <p>Por último nuestra cantidad podemos convertirla a Dolares, Euros, Libras, Yenes, Won COreanos y viceversa. Es muy
+  importante destacar que se ocupa una API que actualiza el precio de nuestras divisas cada 24hrs de manera actumatica.</p>
 ![Conversor Moneda](https://github.com/MiguelAlejandroRodriguezCruz/ConversorMonedas/assets/129399935/32931d45-bc98-42a7-ab38-eb08583b53d6)
-
+<h3>Datos de la API</h3>
+<p>La API que estamos ocupando es ExchangeRate-API, la cual nos permite saber el precio real de muchas divisas a nivel mundia, 
+estos precios se actiualizan cada 24 horas, por lo que siempre tendremos un precio muy acertado en nuestro proyecto</p>
+<url>https://app.exchangerate-api.com/</url>
  
 
  
